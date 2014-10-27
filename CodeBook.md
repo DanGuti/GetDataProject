@@ -1,6 +1,7 @@
 ## Code book for final  Project
 
 The final output file has the following columns:
+
  [1] "Subject"                                                          
  [2] "Activity"                                                         
  [3] "timeDomainBodyAccelerationMeanInX"                                
